@@ -6,7 +6,7 @@
 
 This project is an end-to-end data analytics solution developed to uncover business insights from Walmart retail sales data. I used Python (Pandas, NumPy, SQLAlchemy) for data preparation and cleaning, and SQL (MySQL, PostgreSQL) for advanced querying and business analysis. The goal was to design a structured workflow that processes raw datasets into actionable insights on sales performance, profitability, and customer behavior.
 
-#My Approach
+# My Approach
 
 # Environment Setup
 
