@@ -65,13 +65,11 @@ Designed and executed **advanced SQL queries** (joins, CTEs, window functions, C
 ---
 
 ## 📂 Project Structure  
-
 ```plaintext
-|-- data/                     # Raw and processed datasets
-|-- sql_queries/              # SQL scripts for analysis
-|-- notebooks/                # Jupyter notebooks for Python EDA
-|-- README.md                 # Project documentation
-|-- requirements.txt          # Python dependencies
-|-- main.py                   # Main script for ETL and processing
-
----
+|-- README.md                  # Project documentation  
+|-- Walmart Business Problems.pdf   # Business problem statements  
+|-- Walmart SQL queries.sql    # SQL scripts for analysis  
+|-- Walmart.csv                # Raw dataset  
+|-- Walmart_clean_data.csv     # Cleaned dataset  
+|-- project.ipynb              # Jupyter notebook for Python analysis  
+|-- requirements.txt           # Python dependencies  
