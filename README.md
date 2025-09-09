@@ -1,10 +1,8 @@
 # Retail Sales Analytics using SQL and Python
 
-## Project Overview
-
+## 📌 Project Overview  
 ![Project Pipeline](https://github.com/najirh/Walmart_SQL_Python/blob/main/walmart_project-piplelines.png)
 
-## 📌 Project Overview  
 This project is an end-to-end data analytics solution developed to uncover business insights from **Walmart retail sales data**.  
 I used **Python (Pandas, NumPy, SQLAlchemy)** for data preparation and cleaning, and **SQL (MySQL, PostgreSQL)** for advanced querying and business analysis.  
 
